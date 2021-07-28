@@ -1,11 +1,11 @@
 import React from 'react'
 //
-import Cards from './components/cards/Cards'
+import Resturant from './components/Resturant'
 
 const App = () => {
   return (
     <div>
-      <Cards />
+      <Resturant />
     </div>
   )
 }
