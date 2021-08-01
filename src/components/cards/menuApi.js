@@ -89,6 +89,26 @@ const Menu = [
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ',
   },
+  {
+    id: 10,
+    imageURL:
+      'https://raw.githubusercontent.com/thapatechnical/complete_react2021/main/public/images/samosa.jpg',
+    name: 'sudeep',
+    category: 'sudeep',
+    price: '10₹',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ',
+  },
+  {
+    id: 11,
+    imageURL:
+      'https://raw.githubusercontent.com/thapatechnical/complete_react2021/main/public/images/samosa.jpg',
+    name: 'Bhandari',
+    category: 'sudeep',
+    price: '10₹',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ',
+  },
 ]
 
 export default Menu
